@@ -5,7 +5,7 @@ there are four folders as well as two json files:
 - "server" folder: 
    includes "index.js" as the back-end server of the project
 - "client" folder: 
-   includes  a React Project includes"node_modules" folder, "public" folder, "src" folder, ".gitignore", "package.json", "package-lock.json", "README.md"
+   includes  a React Project includes"node_modules" folder, "public" folder, "src" folder, "package.json", "package-lock.json", "README.md"
 - "node_modules" folder
 - "package.json"
 - "package-lock.json"
