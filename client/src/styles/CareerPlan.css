@@ -1,0 +1,37 @@
+#major {
+    color:red;
+}
+#free_elective {
+    color:blue;
+}
+#breadth_elective {
+    color:green;
+}
+#other {
+    display:inline-block;
+}
+#majorCourse{
+    color:white;
+    background-color:red;
+    display:inline-block;
+}
+#free_electiveCourse {
+    color:white;
+    background-color:blue;
+    display:inline-block;
+}
+#breadth_electiveCourse {
+    color:white;
+    background-color:green;
+    display:inline-block;
+}
+#semester {
+    color:white;
+    background-color:gray;
+    display:inline-block;
+}
+#logOut {
+    position:absolute;
+    top:2%;
+    right:1%;
+}
