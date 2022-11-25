@@ -1,7 +1,7 @@
 ﻿# Automatic-Academic-Career-Planner
 there are four folders as well as two json files:
 - "database" folder: 
-   includes a folder "4905ProgectDatabase", which contains "4905Database.dat" as the database of the project.
+   includes "4905Database.dat" as the database of the project.
 - "server" folder: 
    includes "index.js" as the back-end server of the project
 - "client" folder: 
